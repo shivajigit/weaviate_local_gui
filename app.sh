@@ -1,0 +1,1 @@
+streamlit run src/weaviate_client.py --server.port 8501
